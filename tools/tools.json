@@ -1,22 +1,22 @@
 [
   {
     "id": "jdk",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/tools/jdk.7z",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/jdk.7z",
     "version": "V1.0"
   },
   {
     "id": "kaorios",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/tools/KaoriosToolbox.7z",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/KaoriosToolbox.7z",
     "version": "V1.9"
   },
   {
     "id": "kaorios2_3",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/tools/KaoriosToolbox2_03.7z",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/KaoriosToolbox2_03.7z",
     "version": "V2.3"
   },
   {
     "id": "python",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/tools/KaoriosToolbox2_03.7z",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/python.7z",
     "version": "V1.0"
   }
 ]
