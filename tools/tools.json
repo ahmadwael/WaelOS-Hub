@@ -1,0 +1,17 @@
+[
+  {
+    "id": "jdk",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/tools/jdk.7z",
+    "version": "V1.0"
+  },
+  {
+    "id": "kaorios",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/tools/KaoriosToolbox.7z",
+    "version": "V2.1"
+  },
+  {
+    "id": "kaorios2_3",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/tools/KaoriosToolbox2_03.7z",
+    "version": "V2.3"
+  }
+]
