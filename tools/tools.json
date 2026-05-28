@@ -3,30 +3,55 @@
     "id": "jdk",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/jdk.7z",
     "version": "V1.0",
-    "sha256": "5238e6a8dc3e9450d95d564bb57359500071f2ba620b71bd9dd26ff2650802d5"
+    "sha256": "5238e6a8dc3e9450d95d564bb57359500071f2ba620b71bd9dd26ff2650802d5",
+    "changelog": [
+      "Initial public release",
+      "Added Java runtime environment",
+      "Improved extraction handling"
+    ]
   },
   {
     "id": "waelos_folders",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/waelos_folders.7z",
     "version": "V1.0",
-    "sha256": "2cc79606d259945bc7c1a55ea33edaff1ccf6fc0057b5de830862f7f7e05bbc9"
+    "sha256": "2cc79606d259945bc7c1a55ea33edaff1ccf6fc0057b5de830862f7f7e05bbc9",
+    "changelog": [
+      "Created default WaelOS workspace",
+      "Added project directory structure",
+      "Improved folder initialization"
+    ]
   },
   {
     "id": "KaoriosToolbox",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/KaoriosToolbox.7z",
     "version": "V2.4",
-    "sha256": "4ba0a19590b4a10ab76716950b3f8f85373c233f78faf096eb29f420e7571306"
+    "sha256": "4ba0a19590b4a10ab76716950b3f8f85373c233f78faf096eb29f420e7571306",
+    "changelog": [
+      "Updated toolbox binaries",
+      "Improved compatibility",
+      "Fixed command execution issues"
+    ]
   },
   {
     "id": "python",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/python.7z",
     "version": "V1.0",
-    "sha256": "12c2ce90f40ca77ddee12a190e07a905dafb9b942d5ed63de5485b535ac3decb"
+    "sha256": "12c2ce90f40ca77ddee12a190e07a905dafb9b942d5ed63de5485b535ac3decb",
+    "changelog": [
+      "Added Python runtime",
+      "Integrated pip support",
+      "Optimized startup performance"
+    ]
   },
   {
     "id": "waelos_scripts",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/waelos_scripts.7z",
     "version": "V1.0",
-    "sha256": "4d5262d28305ccb7e7f4f15c73573229201fed2f14de46976a7d7e0f7db86769"
+    "sha256": "4d5262d28305ccb7e7f4f15c73573229201fed2f14de46976a7d7e0f7db86769",
+    "changelog": [
+      "Added core WaelOS scripts",
+      "Improved script compatibility",
+      "Prepared runtime integration"
+    ]
   }
 ]
