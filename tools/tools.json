@@ -7,6 +7,8 @@
     "changelog": [
       "Initial public release",
       "Added Java runtime environment",
+       "Initial public release",
+      "Added Java runtime environment",
       "Improved extraction handling"
     ]
   },
@@ -17,6 +19,8 @@
     "sha256": "2cc79606d259945bc7c1a55ea33edaff1ccf6fc0057b5de830862f7f7e05bbc9",
     "changelog": [
       "Created default WaelOS workspace",
+       "Initial public release",
+      "Added Java runtime environment",
       "Added project directory structure",
       "Improved folder initialization"
     ]
@@ -28,6 +32,8 @@
     "sha256": "4ba0a19590b4a10ab76716950b3f8f85373c233f78faf096eb29f420e7571306",
     "changelog": [
       "Updated toolbox binaries",
+       "Initial public release",
+      "Added Java runtime environment",
       "Improved compatibility",
       "Fixed command execution issues"
     ]
@@ -39,6 +45,8 @@
     "sha256": "12c2ce90f40ca77ddee12a190e07a905dafb9b942d5ed63de5485b535ac3decb",
     "changelog": [
       "Added Python runtime",
+       "Initial public release",
+      "Added Java runtime environment",
       "Integrated pip support",
       "Optimized startup performance"
     ]
