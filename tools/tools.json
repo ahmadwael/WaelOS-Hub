@@ -57,7 +57,7 @@
   },
   {
     "id": "waelos_scripts",
-    "name": "WaelOS Scripts",
+    "name": "Scripts",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/waelos_scripts.7z",
     "version": "V1.0",
     "sha256": "4d5262d28305ccb7e7f4f15c73573229201fed2f14de46976a7d7e0f7db86769",
