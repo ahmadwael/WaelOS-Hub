@@ -61,5 +61,16 @@
       "Improved script compatibility",
       "Prepared runtime integration"
     ]
+  },
+  {
+    "id": "DNA_app",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/dna_app.7z",
+    "version": "20260601",
+    "sha256": "4d5262d28305ccb7e7f4f15c73573229201fed2f14de46976a7d7e0f7db86769",
+    "changelog": [
+      "Added core WaelOS scripts",
+      "Improved script compatibility",
+      "Prepared runtime integration"
+    ]
   }
 ]
