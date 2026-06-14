@@ -155,5 +155,12 @@
     "partition": "product_app",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/XiaomiInCallUI.7z",
     "hidden": true
+  },
+  {
+    "id": "MiuiMms",
+    "name": "MiuiMms",
+    "partition": "product_priv",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiMms.7z",
+    "hidden": true
   }
 ]
