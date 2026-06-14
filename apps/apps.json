@@ -107,13 +107,13 @@
   },
   {
     "id": "MIUISystemUIPlugin",
-    "name": "MIUISystemUIPlugin HyperOS",
+    "name": "MIUISystemUIPlugin HyperOS3",
     "partition": "product_app",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUISystemUIPlugin.7z"
   },
   {
     "id": "MIUISystemUIPluginCos",
-    "name": "MIUISystemUIPlugin ColorOS",
+    "name": "MIUISystemUIPlugin ColorOS(Hos3)",
     "partition": "product_app",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUISystemUIPluginCos.7z"
   },
