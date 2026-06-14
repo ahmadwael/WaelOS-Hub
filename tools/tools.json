@@ -18,7 +18,7 @@
     "name": "Add-ons",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/waelos_folders.7z",
     "version": "V1.0",
-    "sha256": "2cc79606d259945bc7c1a55ea33edaff1ccf6fc0057b5de830862f7f7e05bbc9",
+    "sha256": "3d2676048d9ae7ee773a1162853a29588c245f5b84067f23adbda8a0d04e8956",
     "changelog": [
       "Created default WaelOS workspace",
       "Initial public release",
