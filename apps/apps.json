@@ -134,5 +134,26 @@
     "name": "XiaomiEUExt",
     "partition": "product_priv",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/XiaomiEUExt.7z"
+  },
+  {
+    "id": "InCallUI",
+    "name": "InCallUI",
+    "partition": "product_priv",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/InCallUI.7z",
+    "hidden": true
+  },
+  {
+    "id": "MIUIContactsTGlobal",
+    "name": "MIUIContactsTGlobal",
+    "partition": "product_priv",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUIContactsTGlobal.7z",
+    "hidden": true
+  },
+  {
+    "id": "XiaomiInCallUI",
+    "name": "XiaomiInCallUI",
+    "partition": "product_app",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/XiaomiInCallUI.7z",
+    "hidden": true
   }
 ]
