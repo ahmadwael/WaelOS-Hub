@@ -60,7 +60,7 @@
     "name": "Scripts",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/waelos_scripts.7z",
     "version": "V1.0",
-    "sha256": "dba20aba204a8c71e6cc6927f4f08ed71087cd55f03df2c31f6b040669bf9fe5",
+    "sha256": "e20aab193a3b61089af26b0688397407c2ec5caac31d8d6e5c0715c2ee8ef6f7",
     "changelog": [
       "Added core WaelOS scripts",
       "Improved script compatibility",
