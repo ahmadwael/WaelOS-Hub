@@ -4,7 +4,7 @@
     "name": "JDK",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/jdk.7z",
     "version": "V1.0",
-    "sha256": "ae9b8eb05f3fe97ec00a3ebf53088b7b04267171d3bd13da7cfdb0c996e1bff9",
+    "sha256": "0e229e4563cb8839b32f32457e023e01c4037ad1067360d4d65df201b95ce317",
     "changelog": [
       "Initial public release",
       "Added Java runtime environment",
