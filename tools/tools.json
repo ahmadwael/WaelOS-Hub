@@ -40,7 +40,7 @@
     "name": "Scripts",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/waelos_scripts.7z",
     "version": "V1.0",
-    "sha256": "1d0c11e1ed81d23334faefa13f8a6f25dc099cd5fd8e36a64f7d79881c912f89",
+    "sha256": "082bb5d7c30f998911105b75e93dcb4febf7ec5622fedf6f735ee105728317a1",
     "changelog": [
     ]
   },
@@ -49,7 +49,7 @@
     "name": "DNA App",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/dna_app.7z",
     "version": "20260626",
-    "sha256": "1d4c1b5b89fbca01666690ff9472ea5d103b93451e2fca67793eb99e4e8dcfc6",
+    "sha256": "9bf062e6ada8ac61cf98fb556cb236a857577001a4955e172e1644b2b2814149",
     "changelog": [
     ]
   }
