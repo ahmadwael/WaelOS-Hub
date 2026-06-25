@@ -65,7 +65,7 @@
   },
   {
     "id": "MiuiHome",
-    "name": "MiuiHome Kashi",
+    "name": "MiuiHome By Kashi",
     "partition": "product_priv",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiHome.7z",
     "dependencies": [
@@ -74,7 +74,7 @@
   },
   {
     "id": "MiuiHomeBG",
-    "name": "MiuiHome BG",
+    "name": "MiuiHome By BG",
     "partition": "product_priv",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiHomeBG.7z",
     "dependencies": [
