@@ -101,7 +101,7 @@
   },
   {
     "id": "MIUIThemeManagerGlobal",
-    "name": "MIUIThemeManagerGlobal",
+    "name": "MIUIThemeManager",
     "partition": "product_priv",
     "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUIThemeManagerGlobal.7z"
   },
