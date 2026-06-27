@@ -2,55 +2,49 @@
   {
     "id": "jdk",
     "name": "JDK",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/jdk.7z",
     "version": "V1.0",
+    "size": 61255159,
     "sha256": "0e229e4563cb8839b32f32457e023e01c4037ad1067360d4d65df201b95ce317",
-    "changelog": [
-    ]
+    "changelog": []
   },
   {
     "id": "waelos_folders",
     "name": "Add-ons",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/waelos_folders.7z",
     "version": "V1.0",
+    "size": 37644792,
     "sha256": "3d2676048d9ae7ee773a1162853a29588c245f5b84067f23adbda8a0d04e8956",
-    "changelog": [
-    ]
+    "changelog": []
   },
   {
     "id": "KaoriosToolbox",
     "name": "Kaorios Toolbox",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/KaoriosToolbox.7z",
     "version": "V2.4",
+    "size": 7139150,
     "sha256": "4ba0a19590b4a10ab76716950b3f8f85373c233f78faf096eb29f420e7571306",
-    "changelog": [
-    ]
+    "changelog": []
   },
   {
     "id": "python",
     "name": "Python",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/python.7z",
-    "version": "V1.0",
-    "sha256": "12c2ce90f40ca77ddee12a190e07a905dafb9b942d5ed63de5485b535ac3decb",
-    "changelog": [
-    ]
+    "version": "V1.1",
+    "size": 10398737,
+    "sha256": "c7fe5530e00c7fc4e7630dcf78d8dc6bd1b0cd4fab9406f10ba48c6fc2a46f79",
+    "changelog": []
   },
   {
     "id": "waelos_scripts",
     "name": "Scripts",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/waelos_scripts.7z",
     "version": "V1.0",
+    "size": 168627,
     "sha256": "94012d48bbfa6e2fbdfd48e7f674f1172d42cf64b9a58490ff98aa1e90d976d3",
-    "changelog": [
-    ]
+    "changelog": []
   },
   {
     "id": "dna_app",
     "name": "DNA App",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeltoolsv1/dna_app.7z",
     "version": "20260626",
+    "size": 29047811,
     "sha256": "9bf062e6ada8ac61cf98fb556cb236a857577001a4955e172e1644b2b2814149",
-    "changelog": [
-    ]
+    "changelog": []
   }
 ]
