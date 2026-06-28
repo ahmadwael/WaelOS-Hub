@@ -35,16 +35,16 @@
     "id": "waelos_scripts",
     "name": "Scripts",
     "version": "V1.0",
-    "size": 169904,
-    "sha256": "28e598e6da331d810ae3542e0c3b6a75a272c2683ba4e447d1224e965113bdad",
+    "size": 168641,
+    "sha256": "bd1246ab027ed6a78897964a092d6e4f64bab0e91d1204a7d63e41f39020da96",
     "changelog": []
   },
   {
     "id": "dna_app",
     "name": "DNA App",
-    "version": "20260626",
-    "size": 29047811,
-    "sha256": "9bf062e6ada8ac61cf98fb556cb236a857577001a4955e172e1644b2b2814149",
+    "version": "260628",
+    "size": 29056032,
+    "sha256": "223b4446c8ad8988cbee52ea0a6d465d838038e6a40d37d6bf13b2a0cd862b5e",
     "changelog": []
   }
 ]
