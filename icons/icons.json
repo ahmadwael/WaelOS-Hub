@@ -2,31 +2,37 @@
   {
     "id": "IOS26Dark",
     "name": "IOS26Dark",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeliconsv1/IOS26Dark.7z"
+    "size": 55202879,
+    "sha256": "86741958d7a79d1327bd44df0e1db5e98db932a4df30897df2d1942e49a358f2"
   },
   {
     "id": "IOS26",
     "name": "IOS26",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeliconsv1/IOS26.7z"
+    "size": 57878663,
+    "sha256": "d0e6b3c342c5cdf0e49930aec1b61f225ba13865a6afe3739875258e68f28a80"
   },
   {
     "id": "HyperOSDark",
     "name": "HyperOSDark",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeliconsv1/HyperOSDark.7z"
+    "size": 8538599,
+    "sha256": "6145911d1ca6e9d192932b1534759e8e97bc3665eb124d29ec84ef43c9855185"
   },
   {
     "id": "IOS26Blur",
     "name": "IOS26Blur",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeliconsv1/IOS26Blur.7z"
+    "size": 52863446,
+    "sha256": "06347812a24fd5474d526dc0460cec5cd7e0032db9ffa20322d306ab86f2ecb3"
   },
   {
     "id": "HOS2fluffy",
     "name": "HOS2fluffy",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeliconsv1/HOS2fluffy.7z"
+    "size": 8987658,
+    "sha256": "d7080ab7614dcdb02b96cc0893ba7b8c81c3a470c72f003c06af17d88c5430be"
   },
   {
     "id": "HyperOSGlass",
     "name": "HyperOSGlass",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waeliconsv1/HyperOSGlass.7z"
+    "size": 103849132,
+    "sha256": "f10ff0f7731bd8ee35b8ff687d81439b9ae95bfcebb997d19781382681ecbbd3"
   }
 ]
