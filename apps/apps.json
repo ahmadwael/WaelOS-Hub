@@ -3,164 +3,189 @@
     "id": "CircleToSearch",
     "name": "CircleToSearch",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/CircleToSearch.7z"
+    "size": 1050117,
+    "sha256": "e30959497cc740fef6ef9eb27fc0154bf9994dbad5f79574d3a91b494c66fb15"
   },
   {
     "id": "GooglePackageInstaller",
     "name": "GooglePackageInstaller",
     "partition": "system_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/GooglePackageInstaller.7z"
+    "size": 1220797,
+    "sha256": "15c701b6e1c9111551c12d09680cd70143a9a0c61e20dac87f66ad5fc9d585c4"
   },
   {
     "id": "MiuiMacro",
     "name": "MiuiMacro",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiMacro.7z"
+    "size": 5630527,
+    "sha256": "a9b01410bccb6b3b5dfc4365ef74fdee194b9013cc6394e796fcd15045b5ac8a"
   },
   {
     "id": "LatinImeGoogle",
     "name": "LatinImeGoogle",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/LatinImeGoogle.7z"
+    "size": 23245652,
+    "sha256": "023f5425cc80c205ef2dbfc1cdf68a489dbf621ae23aef01caa3cca7900912f7"
   },
   {
     "id": "MIUIFrequentPhrase",
     "name": "MIUIFrequentPhrase",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUIFrequentPhrase.7z"
+    "size": 2178908,
+    "sha256": "7b6b1bcb73692d05b11c68815699d184534ff580ab8d7dadab064af08d903f14"
   },
   {
     "id": "ThemesStub",
     "name": "ThemesStub",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/ThemesStub.7z",
     "dependencies": [
       "ThemePicker"
-    ]
+    ],
+    "size": 12605,
+    "sha256": "5d8ca3c1a6122109b292c43dd494cf6634bb1fac79bb29605354b0c3602cc837"
   },
   {
     "id": "ThemePicker",
     "name": "ThemePicker",
     "partition": "system_ext_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/ThemePicker.7z",
-    "hidden": true
+    "hidden": true,
+    "size": 12163001,
+    "sha256": "26210e00efab62b96fb4410a0a989ebe2723ed0cb79f827fc01acbd3b99afac3"
   },
   {
     "id": "Joyose",
     "name": "Joyose",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/Joyose.7z"
+    "size": 1764460,
+    "sha256": "5f016ee10a239a6722c8eb25758ae1d8b1ebcd8dc37d4db760ad1fbe4ef28c82"
   },
   {
     "id": "MIUIFileExplorerGlobal",
     "name": "MIUIFileExplorerGlobal",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUIFileExplorerGlobal.7z"
+    "size": 12994297,
+    "sha256": "69ec6ce4909a1d82f1b21a2f548a432904cb0e68dfa30ace594b76755b0d96a5"
   },
   {
     "id": "MiMediaEditor",
     "name": "MiMediaEditor",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiMediaEditor.7z"
+    "size": 173742212,
+    "sha256": "b17925e25a0b2b8d318218d80a879f8ec07a9084c5a70049c64b650169660458"
   },
   {
     "id": "MiuiHome",
     "name": "MiuiHome By Kashi",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiHome.7z",
     "dependencies": [
       "XiaomiEUExt"
-    ]
+    ],
+    "size": 15215544,
+    "sha256": "b138c7c98159689628f3c47fa0dff4bcd858f7146bb7ea92f45cca17bb59e05e"
   },
   {
     "id": "MiuiHomeBG",
     "name": "MiuiHome By BG",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiHomeBG.7z",
     "dependencies": [
       "XiaomiEUExt"
-    ]
+    ],
+    "size": 13988577,
+    "sha256": "ed65f9645c205724e1c0ed1768a10d61265160a60564a5e248ebaf94a64d7af1"
   },
   {
     "id": "MiuiHomePad",
     "name": "MiuiHome Pad",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiHomePad.7z"
+    "size": 13333472,
+    "sha256": "cf91191d257901e1c371018bb1fbca31c46439084df6b2fcf65ca6c44de280cd"
   },
   {
     "id": "AppVault",
     "name": "AppVault",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/AppVault.7z"
+    "size": 18825328,
+    "sha256": "a35af497ee47d7e546a999ba19f9b2c5912534d9b90eea4464abad32007bcfe5"
   },
   {
     "id": "MIUISecurityCenterGlobal",
     "name": "MIUISecurityCenterGlobal",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUISecurityCenterGlobal.7z"
+    "size": 53566187,
+    "sha256": "d7144b2ad8ee4063cf992562fb4d18a8230a523599260f0ad66a155f649f5ecd"
   },
   {
     "id": "MIUIThemeManagerGlobal",
     "name": "MIUIThemeManager",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUIThemeManagerGlobal.7z"
+    "size": 34182081,
+    "sha256": "a1a7c62139de7b8b85e8c0dc3cfb723cbfbb7709eaf3aeec27391867125a8b53"
   },
   {
     "id": "MIUISystemUIPlugin",
     "name": "MIUISystemUIPlugin HyperOS3",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUISystemUIPlugin.7z"
+    "size": 11996040,
+    "sha256": "df0f660eadd3cde098c988142c4aceeaca7a4c91edb94279b8b8ddd13f27e24b"
   },
   {
     "id": "MIUISystemUIPluginCos",
     "name": "MIUISystemUIPlugin ColorOS(Hos3)",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUISystemUIPluginCos.7z"
+    "size": 11619616,
+    "sha256": "8413e1e76c8bbffba3b5095fef1de6fa6ddd94404a42d08e3328681032000343"
   },
   {
     "id": "Messages_arm64_xxxhdpi",
     "name": "Messages_arm64_xxxhdpi",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/Messages_arm64_xxxhdpi.7z"
+    "size": 38693927,
+    "sha256": "343fa4b2e5059edc59eae64e83bc3f78e3b001d69e562a606e545d382e7409e2"
   },
   {
     "id": "Safetycore",
     "name": "Safetycore",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/Safetycore.7z"
+    "size": 27378,
+    "sha256": "2d80885a1b9303548c97a99f2060be6561792f429944c3ba9bbf4b317d9a26b8"
   },
   {
     "id": "XiaomiEUExt",
     "name": "XiaomiEUExt",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/XiaomiEUExt.7z"
+    "size": 1571665,
+    "sha256": "bd8852564dd45df261b4f5163c7589a210a7be9e861b4fd75d2d8b57ae350199"
   },
   {
     "id": "InCallUI",
     "name": "InCallUI",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/InCallUI.7z",
-    "hidden": true
+    "hidden": true,
+    "size": 4405390,
+    "sha256": "00e8c073074ae0489b533a8bc4eac367dcf53dd8e9b983f2930cb752397bf2f3"
   },
   {
     "id": "MIUIContactsTGlobal",
     "name": "MIUIContactsTGlobal",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUIContactsTGlobal.7z",
-    "hidden": true
+    "hidden": true,
+    "size": 11234292,
+    "sha256": "92549883616b1dca1cda24bf75e86a3d4fc4c6dee805818b0dd3d03443308969"
   },
   {
     "id": "XiaomiInCallUI",
     "name": "XiaomiInCallUI",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/XiaomiInCallUI.7z",
-    "hidden": true
+    "hidden": true,
+    "size": 2555140,
+    "sha256": "22617cb8fec4baf5d137bfb66ea160b14110c06f6a16dea5b1c1433f41036507"
   },
   {
     "id": "MiuiMms",
     "name": "MiuiMms",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiMms.7z",
-    "hidden": true
+    "hidden": true,
+    "size": 19286116,
+    "sha256": "ba08c68f8ff292fbe075a0de7266d5c8be5684c0c0fe2b654f4a09c82059cfea"
   }
 ]
