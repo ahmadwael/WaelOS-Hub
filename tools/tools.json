@@ -37,7 +37,10 @@
     "version": "V1.1",
     "size": 169568,
     "sha256": "e67b92a043e37c9df641968f44efa2f12534189e4f7300b66eda87fd4bcbf751",
-    "changelog": []
+    "changelog": [
+      "Verify and add missing ext4 or erofs counterparts for dynamic partitions in fstab patch",
+      "Improved and fixed the bootloader spoofing code with expanded support for more devices"
+    ]
   },
   {
     "id": "dna_app",
@@ -45,6 +48,8 @@
     "version": "260701",
     "size": 29055930,
     "sha256": "2def1628b6bd137d9d1eeea10acd73ddeee4077572341e21cb4f59c4e8fd5663",
-    "changelog": []
+    "changelog": [
+      "Fixed Payload Dumper page"
+    ]
   }
 ]
