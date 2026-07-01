@@ -34,9 +34,9 @@
   {
     "id": "waelos_scripts",
     "name": "Scripts",
-    "version": "V1.1",
-    "size": 169568,
-    "sha256": "e67b92a043e37c9df641968f44efa2f12534189e4f7300b66eda87fd4bcbf751",
+    "version": "V1.2",
+    "size": 170541,
+    "sha256": "e63bb23636d394f24fce9e21bda63018c333e5ef0ae172b3ec6f480b260a4e73",
     "changelog": [
       "Verify and add missing ext4 or erofs counterparts for dynamic partitions in fstab patch",
       "Improved and fixed the bootloader spoofing code with expanded support for more devices"
