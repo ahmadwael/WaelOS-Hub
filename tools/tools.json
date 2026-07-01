@@ -46,8 +46,8 @@
     "id": "dna_app",
     "name": "DNA App",
     "version": "260701",
-    "size": 29056373,
-    "sha256": "acc1ae8a23682d73b005310a9c4e348b5cfc5d5381ca6c52efd82e9a99fe660b",
+    "size": 29056441,
+    "sha256": "1abfdfe2f13d81576ad4e049c307f12e12789d0b5da0b3026a114fc34db712d9",
     "changelog": [
       "Fixed Payload Dumper page"
     ]
